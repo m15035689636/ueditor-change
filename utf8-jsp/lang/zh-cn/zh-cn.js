@@ -562,6 +562,16 @@ UE.I18N['zh-cn'] = {
         'validLink':'只支持选中一个链接时生效',
         'httpPrompt':'您输入的超链接中不包含http等协议名称，默认将为您添加http://前缀'
     },
+    'link_sel':{
+        'static':{
+            'lang_input_text':'文本内容：',
+            'lang_input_url':'链接地址：',
+            'lang_input_title':'标题：',
+            'lang_input_target':'是否在新窗口打开：'
+        },
+        'validLink':'只支持选中一个链接时生效',
+        'httpPrompt':'您输入的超链接中不包含http等协议名称，默认将为您添加http://前缀'
+    },
     'map':{
         'static':{
             lang_city:"城市",

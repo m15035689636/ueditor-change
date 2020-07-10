@@ -1901,3 +1901,10 @@ div.edui-box {
 .edui-default  .edui-pastecontainer .edui-button  .edui-state-hover .edui-plaintxticon{
     background-position: -72px -34px;
 }
+
+.edui-for-link_sel .edui-icon {
+    background: url(../images/link_sel.png) !important;
+}
+.edui-for-link_sel .edui-dialog-body {
+    width: 400px !important;
+}
